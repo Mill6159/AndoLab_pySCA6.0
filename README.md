@@ -3,14 +3,15 @@
 # Ando Lab edits to the pySCA6.0 code #
 
 #############################################################
-# README file for pySCA
-#
-# 03.2015 
-#
-# Copyright (C) 2015 Olivier Rivoire, Rama Ranganathan, Kimberly
-# Reynolds
-# This program is free software distributed under the BSD 3-clause
-# license, please see the file LICENSE for details.
+_README file for pySCA_
+
+_03.2015_ 
+
+_Copyright (C) 2015 Olivier Rivoire, Rama Ranganathan, Kimberly Reynolds_
+
+_This program is free software distributed under the BSD 3-clause_
+
+_license, please see the file LICENSE for details._
 #############################################################
 
 The current version of the Statistical Coupling Analysis (SCA)
