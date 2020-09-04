@@ -44,7 +44,7 @@ from Bio import Entrez
 from Bio.Seq import Seq
 from Bio.SeqRecord import SeqRecord
 
-Entrez.email = "your.email@youruniversity.edu"  # PLEASE change to your own email !!!
+Entrez.email = "rcm347@cornell.edu"  # PLEASE change to your own email !!!
 
 if __name__ == '__main__':
     
